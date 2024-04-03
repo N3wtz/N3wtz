@@ -7,7 +7,6 @@
     <li>🌱 I’m currently learning about Web Development and Game Development</li>
     <li>⚡ Fun fact: i love dads jokes 😄😄😄</li>
 </ul>
-<br>
 
 <!--Github Stats-->
 
