@@ -7,8 +7,8 @@
     <li>🌱 I’m currently learning about Web Development and Game Development</li>
     <li>⚡ Fun fact: i love dads jokes 😄😄😄</li>
 </ul>
-
-[![N3wtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3wtz)](https://github.com/N3wtz/github-readme-stats)
+<br><br>
+[![N3wtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3wtz&show_icons=true&theme=radical)](https://github.com/N3wtz/github-readme-stats)
 
 
 
