@@ -8,6 +8,7 @@
     <li>⚡ Fun fact: i love dads jokes 😄😄😄</li>
 </ul>
 <br><br>
+
 [![N3wtz's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3wtz&show_icons=true&theme=radical)](https://github.com/N3wtz/github-readme-stats)
 
 
