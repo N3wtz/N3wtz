@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fduniagames.co.id%2Fdiscover%2Farticle%2Ffakta-kiyotaka-ayanokouji&psig=AOvVaw2iriivKLH-wghA3qwVgMcS&ust=1712397468975000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC9vejnqoUDFQAAAAAdAAAAABAE"  />
-</div>
-
 ###
 
 <h1 align="center">"Hello There 🔦🔦"<br>-General Kenobi-</h1>
