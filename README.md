@@ -2,17 +2,7 @@
 
 ###
 
-<h4 align="left">🏂 Profile View</h4>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/N3wtz/count.svg?"  />
-</div>
-
-###
-
-<h4 align="left">👩‍💻  So who am I?</h4>
+<h3 align="left">👩‍💻  So who am I?</h3>
 
 ###
 
@@ -107,6 +97,16 @@
   <a href="www.instagram.com/gagasprpdt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<h4 align="left">🏂 Profile View</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/N3wtz/count.svg?"  />
 </div>
 
 ###
