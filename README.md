@@ -1,10 +1,14 @@
+<div align="center">
+  <img height="150" src="https://media.licdn.com/dms/image/D5616AQHT39-wBfbvGA/profile-displaybackgroundimage-shrink_350_1400/0/1702956791972?e=1717632000&v=beta&t=f5evbyBunVMyVA47XgMABzjBYE8hVl6Mmb27m9zWME8"  />
+</div>
+
 ###
 
 <h1 align="center">"Hello There 🔦🔦"<br>-General Kenobi-</h1>
 
 ###
 
-<h4 align="left">Profile views</h4>
+<h4 align="left">🏂 Profile View</h4>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  So who am I?</h3>
+<h4 align="left">👩‍💻  So who am I?</h4>
 
 ###
 
@@ -22,7 +26,7 @@
 
 ###
 
-<h3 align="left">📖 Languages</h3>
+<h4 align="left">📖 Languages</h4>
 
 ###
 
@@ -40,7 +44,7 @@
 
 ###
 
-<h3 align="left">🔗 Frameworks</h3>
+<h4 align="left">🔗 Frameworks</h4>
 
 ###
 
@@ -52,7 +56,7 @@
 
 ###
 
-<h3 align="left">⚙️ Tools</h3>
+<h4 align="left">⚙️ Tools</h4>
 
 ###
 
@@ -68,7 +72,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">🔥 My Stats</h4>
 
 ###
 
@@ -78,7 +82,7 @@
 
 ###
 
-<h4 align="left">My contributions</h4>
+<h4 align="left">🐍 My contributions</h4>
 
 ###
 
@@ -86,15 +90,19 @@
 
 ###
 
+<h4 align="left">🎵 My Spotify</h4>
+
+###
+
 <div align="center">
-  <a href="https://open.spotify.com/user/Gagas Pradipta">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gagas%20Pradipta&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31rzpzqh3befk4eobw4dxbus6e54">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rzpzqh3befk4eobw4dxbus6e54&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🫂 Connect with me</h3>
+<h4 align="left">🫂 Connect with me</h4>
 
 ###
 
