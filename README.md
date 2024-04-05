@@ -88,6 +88,10 @@
 
 ###
 
+<h4 align="left">My contributions</h4>
+
+###
+
 <img src="https://raw.githubusercontent.com/N3wtz/N3wtz/output/snake.svg" alt="Snake animation" />
 
 ###
